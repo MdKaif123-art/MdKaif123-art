@@ -1,5 +1,5 @@
 
-# K. Mohammed Kaif 
+# Mohammed Kaif K
 
 🎓 **Integrated M.Tech (Software Engineering)** @ VIT Vellore ’28
 💻 **Aspiring Software Engineer** | Full Stack Web Developer
@@ -31,9 +31,9 @@
 * 🥈 Won **2nd Prize** in a college-level hackathon (₹4,000)
 * ✅ Completed internship at **KrizPay** as a Frontend Developer
 * 🧑‍💻 Successfully completed first **freelance project** for a startup (₹10K stipend)
-Mohammed Kaif k vit
+k Mohammed Kaif vit
 
 ---
 
 > *Still learning. Still building. Still just getting started.*
-# Mohammed-kaif-k-vit
+# Mohammed-kaif k vit
