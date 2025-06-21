@@ -1,7 +1,5 @@
-# Mohammed-kaif-k-vit
-My readme — highlighting my M.Tech journey, projects, and developer profile.
 
----
+My readme — highlighting my M.Tech journey, projects, and developer profile.
 
 # K. Mohammed Kaif 
 
@@ -40,4 +38,4 @@ Mohammed Kaif k vit
 ---
 
 > *Still learning. Still building. Still just getting started.*
-
+# Mohammed-kaif-k-vit
