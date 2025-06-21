@@ -1,6 +1,4 @@
 
-My readme — highlighting my M.Tech journey, projects, and developer profile.
-
 # K. Mohammed Kaif 
 
 🎓 **Integrated M.Tech (Software Engineering)** @ VIT Vellore ’28
