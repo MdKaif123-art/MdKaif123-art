@@ -1,92 +1,157 @@
-# 👋 Hi, I'm Mohammed Kaif K
+# Mohammed Kaif K
 
-🎓 Integrated M.Tech (Software Engineering) @ VIT Vellore ’28  
-💻 Aspiring Software Engineer | Full Stack Web Developer  
-💼 Ex-Frontend Intern @ KrizPay  
-🏆 2nd Prize Hackathon Winner  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Mohammed+Kaif+K;Software+Engineering+Student;Full+Stack+Developer;Hackathon+Winner;Patent+Author;Building+Products+That+Matter" alt="Typing SVG" />
+</p>
 
----
-
-## 🚀 About Me
-
-I’m a passionate developer who loves building **real-world, scalable web applications**.  
-I focus on **clean UI, performance, SEO, analytics, and practical problem-solving**.
-
-- 🔭 Currently working on a **Fiverr-like freelance marketplace**
-- 🧠 Interested in **Full Stack Development, System Design, and Product Engineering**
-- 🏗️ Love converting ideas into usable products
-- 📈 Always learning, building, and improving
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MdKaif123-art&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-**Frontend**
-- HTML, CSS, JavaScript
-- React.js
+Integrated M.Tech (Software Engineering) student at VIT Vellore with a strong interest in Full Stack Development, Product Engineering, System Design, Research, and Innovation.
 
-**Backend**
-- Node.js
-- REST APIs
+Over the years, I have built platforms used by thousands of students, led technical communities, participated in national-level hackathons, worked on industry-backed projects, published patents, and explored technology beyond the classroom.
 
-**Tools & Others**
-- Git & GitHub
-- SEO & Analytics
-- Deployment (Netlify)
+I enjoy transforming ideas into products that create measurable impact.
 
 ---
 
-## 💡 Projects
+## Highlights
 
-### 🔹 VITMISQube
-📌 Previous Year Question Paper Platform  
-- Analytics-driven insights  
-- SEO optimized  
-- Ads & API integrations  
-
-🌐 https://vitmisqube.netlify.app/
-
----
-
-### 🔹 QuizingSphere
-📌 NPTEL Practice Platform  
-- Used by students from VIT, SRM & IITs  
-- Clean UI + performance-focused  
-
-🌐 https://quizingsphere.netlify.app/
+* Chairperson, Technical Electronics Club (TEC)
+* Danfoss Innovator Award Recipient
+* Winner of 5+ Hackathons with Team Foresight
+* 7+ Published Patents
+* Former Frontend Development Intern at KrizPay
+* Freelance Developer
+* Coordinator, Riviera & Gravitas
+* Built and managed student platforms used by thousands
 
 ---
 
-### 🔹 AI-Based Sewage Blockage Detection (Patent Submitted)
-📌 Intelligent vehicle-based detection system  
-- AI-powered analysis  
-- Real-world infrastructure application  
+## Impact
+
+| Metric                     | Value   |
+| -------------------------- | ------- |
+| Hackathon Wins             | 5+      |
+| Published Patents          | 7+      |
+| Community Members          | 5,000+  |
+| Platform Views             | 90,000+ |
+| Student Platforms Built    | 2       |
+| Industry Innovation Awards | 1       |
 
 ---
 
-### 🔹 Freelance Marketplace (In Progress)
-📌 Fiverr-like platform  
-- Real-world freelance workflows  
-- Buyer–seller simulation  
+## Featured Projects
+
+### QuizingSphere
+
+NPTEL preparation platform designed to help students practice and prepare efficiently.
+
+* 5,000+ community members
+* 90,000+ platform visits
+* Used by students across multiple institutions
+
+https://quizingsphere.netlify.app/
 
 ---
 
-## 🏆 Achievements
+### VITMIsQube
 
-- 🥈 2nd Prize – College-Level Hackathon (₹4,000)
-- ✅ Frontend Development Intern @ KrizPay
-- 💼 Completed first freelance project (₹10,000 stipend)
-- 📄 Patent submitted for AI-based system
+Academic resource platform providing access to previous-year question papers and study resources.
 
----
+* SEO optimized
+* Analytics driven
+* Active student user base
 
-## 📫 Connect With Me
-
-- 📧 Email: mdkaif196905@gmail.com  
-- 🌐 Portfolio: https://mohammedkaifk-portfolio.netlify.app/  
-- 💼 LinkedIn: https://www.linkedin.com/in/k-mohammed-kaif-62510728b/  
-- 🐙 GitHub: https://github.com/MdKaif123-art  
+https://vitmisqube.netlify.app/
 
 ---
 
-⭐ *Still learning. Still building. Still just getting started.*
+### AI-Based Sewage Blockage Detection System
+
+Patent-published intelligent monitoring system leveraging AI for infrastructure maintenance and urban technology applications.
+
+---
+
+### Industry Project — Danfoss
+
+Industry-focused innovation project recognized with the Danfoss Innovator Award.
+
+---
+
+### Freelance Marketplace (In Development)
+
+A Fiverr-inspired platform featuring buyer-seller workflows and scalable architecture.
+
+---
+
+## Technical Skills
+
+### Frontend
+
+HTML • CSS • JavaScript • React.js
+
+### Backend
+
+Node.js • Express.js • REST APIs
+
+### Databases
+
+MongoDB • Firebase
+
+### Tools & Platforms
+
+Git • GitHub • Postman • Netlify • Vercel
+
+### Additional Areas
+
+SEO • Analytics • Product Development • System Design
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MdKaif123-art&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MdKaif123-art&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdKaif123-art&theme=tokyo-night" />
+</p>
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,firebase,js,html,css,git,github,vscode,postman" />
+</p>
+
+---
+
+## Connect
+
+Portfolio
+https://mohammedkaifk-portfolio.netlify.app/
+
+LinkedIn
+https://www.linkedin.com/in/k-mohammed-kaif-62510728b/
+
+GitHub
+https://github.com/MdKaif123-art
+
+Email
+[mdkaif196905@gmail.com](mailto:mdkaif196905@gmail.com)
+
+---
+
+> Building products, solving problems, and continuously learning.
